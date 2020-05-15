@@ -1,8 +1,12 @@
 # coronavirus
 puto covid
-hola
-Requerimientos:
-| Day     | Meal    | Price |
+## Creditos
+- Yo
+## Requerimientos:
+| Software     | Version    | Pagina |
 | --------|---------|-------|
-| Monday  | pasta   | $6    |
-| Tuesday | chicken | $8    |
+| MySql | chicken | $8    |
+| Angular | chicken | $8    |
+| NodeJs | chicken | $8    |
+| JavaScript | chicken | $8    |
+| Git | chicken | $8    |
