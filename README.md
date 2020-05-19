@@ -13,3 +13,4 @@ puto covid
 
 ## Como desplegar la aplicacion
  - Para desplegar la aplicacion se realiza lo siguiente
+ - Nuevos cambios publicados
