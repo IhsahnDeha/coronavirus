@@ -10,3 +10,6 @@ puto covid
 | NodeJs | chicken | $8    |
 | JavaScript | chicken | $8    |
 | Git | chicken | $8    |
+
+## Como desplegar la aplicacion
+ - Para desplegar la aplicacion se realiza lo siguiente
