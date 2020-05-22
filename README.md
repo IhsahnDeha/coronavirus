@@ -16,7 +16,7 @@ puto covid
  - Nuevos cambios publicados
  ## cambios en dev.v1
   - Los cambios son xxxx
-  
+
   ## Requerimientos funcionales
 
  - El sistema debe permitir acceder a este con una cuenta
@@ -54,3 +54,5 @@ de no realizar bien un proceso
  - El sistema debe contener los colores representativos de la empresa	
  - El sistema debe ser responsive
  - La pagina del sistema debe poder utilizarse con Firefox y Chrome
+
+### Condor Cristhian
