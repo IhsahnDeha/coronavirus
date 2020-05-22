@@ -16,9 +16,8 @@ puto covid
  - Nuevos cambios publicados
  ## cambios en dev.v1
   - Los cambios son xxxx
-  ## Requisitos funcionales y no funcionales
   
-FUNCIONALES
+  ## Requerimientos funcionales
 
  - El sistema debe permitir acceder a este con una cuenta
  de usuario
@@ -45,7 +44,7 @@ de no realizar bien un proceso
  - El sistema debe permitir modificar una reserva
  - El sistema permitira finalizar una reserva
 
-NO FUNCIONALES
+## Requerimientos no funcionales
 
  - La interfaz del sistema debe de ser intuitivo
  - El sistema debe de cumplir los procesos de la reserva
